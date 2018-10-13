@@ -1,0 +1,78 @@
+CPU Socket Image
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Intel_Socket_1150_IMGP8593_smial_wp.jpg/800px-Intel_Socket_1150_IMGP8593_smial_wp.jpg
+
+Cpu Image
+https://imagescdn.tweaktown.com/content/7/2/7222_999_intel-core-i7-5775c-3-3ghz-broadwell-lga-1150-cpu-performance-overview_full.jpg
+
+DIMM Slot Image
+https://www.pcper.com/files/imagecache/article_max_width/review/2014-09-19/15-dimms-upper.jpg
+
+Expansion Slot Image
+https://www.servethehome.com/wp-content/uploads/2012/06/ASUS-Z9PE-D8-WS-PCIe-Expansion-Slots.png
+
+Disk Controller Image
+https://www.aoaforums.com/frontpage/images/stories/Articles/200702/motherboard_guide/winbond_chip.png
+
+Power Connector Image
+https://www.overclock.net/content/type/61/id/2760431/width/350/height/700/flags/LL
+
+BIOS Chip Image
+https://galido.net/blog/wp-content/uploads/2017/07/bios.jpeg
+
+CMOS Battery Image
+https://www.cpureport.com/wp-content/uploads/2014/12/CMOS-battery1.jpg
+
+Audio Port Image
+https://s3.amazonaws.com/user-media.venngage.com/420972-fcf753895701b5fe17692713c5059002.png
+
+Component Cabe Image
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Component-cables.jpg/1200px-Component-cables.jpg
+
+DVI Connector Image
+https://sgcdn.startech.com/005329/media/products/gallery_large/DP2DVI2MM6.B.jpg
+
+Display Port Connector/Port
+https://cdn.shopify.com/s/files/1/0713/8895/files/Ports_88483320-7be3-45dc-b039-e6a3ae483bc4_large.jpg?15813463704654583875
+
+eSATA Port
+https://upload.wikimedia.org/wikipedia/commons/7/76/Esatap_port.JPG
+
+FireWire Port
+https://cdn-image.realsimple.com/sites/default/files/styles/portrait_435x518/public/image/images/0809/firewire-400-port_300.jpg?itok=IaNKxRXT
+
+HDMI Port
+http://xfix.co.uk/wp-content/uploads/2018/07/ps4-hdmi-port-repair.jpg
+
+Parralell Port
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Parallel_computer_printer_port.jpg/1200px-Parallel_computer_printer_port.jpg
+
+Power Port
+http://gateway.ctsltd.net/imglib/windows_pc_rear_power_port.jpg
+
+PS2 Port
+https://i2.wp.com/wifinotes.com/wp-content/uploads/2015/03/ps-2-port.jpg
+
+RJ11 Port
+https://www.iofast.com/images/81619122e1ee12a8ee6e5109d0cf6517.jpg
+
+RJ45 Port
+https://www.molex.com/mx_upload/family/mxmag_gigabit_singleport_rj45_/MXMag_Magnetic_Jacks.jpg
+
+Serial Port
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Serial_port.jpg/1200px-Serial_port.jpg
+
+S Video Port
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/S-Video_7-pin_quasi-DIN_connector.JPG/170px-S-Video_7-pin_quasi-DIN_connector.JPG
+
+USB Port
+https://upload.wikimedia.org/wikipedia/commons/2/24/Blue_USB_port_without_USB_3.0_contacts.jpg
+
+VGA Port
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SVGA_port.jpg/300px-SVGA_port.jpg
+
+Wall-E Vine 
+https://www.youtube.com/watch?v=7o_TxMnRVqI
+
+Time Line of Operating Systems
+https://en.wikipedia.org/wiki/Timeline_of_operating_systems
+

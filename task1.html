@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link href="layout.css" rel="stylesheet"/>
+        <title>Ryan Blue</title>
+    </head>
+    <body>
+        <header>
+            <a href="index.html">
+                <img src="media/banner.jpg" alt="Computer" id="logoimg" />
+            </a>
+
+            <div class="navbar">
+                <a href="index.html">Home</a>
+
+                <div class="dropdown">
+                  <button class="dropbtn"><a href="task1.html">Task 1</a> 
+                    <i class="fa fa-caret-down"></i>
+                  </button>
+                  <div class="dropdown-content">
+                    <a href="task1.html#processor_socket">Processor Socket</a>
+                    <a href="task1.html#processor">Processor</a>
+                    <a href="task1.html#memory_slots">Memory Slots</a>
+                    <a href="task1.html#expansion_slots">Expansion Slots</a>
+                    <a href="task1.html#disk_controller">Disk Controller</a>
+                    <a href="task1.html#power_connector">Power Connectors</a>
+                    <a href="task1.html#bios_chip">BIOS Chip</a>
+                    <a href="task1.html#cmos_battery">CMOS Battery</a>
+                  </div>
+                </div> 
+
+                <div class="dropdown">
+                    <button class="dropbtn"><a href="task2.html">Task 2</a>
+                      <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                      <a href="task2.html#audio">Audio</a>
+                      <a href="task2.html#component">Component - RGB</a>
+                      <a href="task2.html#dvi">DVI</a>
+                      <a href="task2.html#display_port">Display Port</a>
+                      <a href="task2.html#thunderbolt">Thunderbolt</a>
+                      <a href="task2.html#esata">eSATA</a>
+                      <a href="task2.html#firewire">FireWire</a>
+                      <a href="task2.html#hdmi">HDMI</a>
+                      <a href="task2.html#parallel">Parallel</a>
+                      <a href="task2.html#power">Power</a>
+                    </div>
+                  </div> 
+
+                  <a href="task3.html">Task 3</a>
+                  <a href="task5.html">Task 5</a>
+                  <a href="task8.html">Task 8</a>
+                  <a href="task9.html">Task 9</a>
+
+              </div>
+            <h1>Task 1: Identifying Motherboard Components</h1>
+        </header>
+        <!-- Content Goes below -->
+        <section>
+            <article>
+                <h1 id="processor_socket">Processor Socket</h1>
+                <img src="media/cpusocket.jpg" width="500"/>
+                <p>This Motherboard Component is called the CPU socket, this specific one is of the LGA1150 type. LGA stands for Land Grid Array which means the connecting pins are on the motherboard itself. 1150 stands for how many connections there are between the cpu and motherboard, also known as pins. This components purpose is to connect the cpu and the motherboard together.</p>
+                <h1 id="processor">Processor (CPU)</h1>
+                <img src="media/cpu.jpg" width="500"/>
+                <p>This Computer component is called the CPU, this component is responsible for all computing done on the computer and is usually refered to as the "Brain" of the computer. This specific picture is of a LGA1150, just like the motherboard this means that the CPU has 1,150 pins.</p>
+                <h1 id="memory_slots">Memory Slots</h1>
+                <img src="media/dimms.jpg" width="500"/>
+                <p>Theese are DIMM sockets, also known as dual in-line memory module sockets. These motherboard components are responsible for connecting the motherboard and the RAM modules. These are specifically DDR4 slots with 260 pins.</p>
+                <h1 id="expansion_slots">Expansion Slots</h1>
+                <img src="media/exsp.png" width="500"/>
+                <p>These are PCIE slots, these motherboard components are responsible for connecting the motherboard and any periphery that you may want to connect to it. These are specifically PCIEx16 slots, which means they are 16x as fast as a PCIEx1 slot, the faster the slot the better the periphery can communicate with the motherboard, and in turn the CPU.</p>
+                <h1 id="disk_controller">Disk Controller</h1>
+                <img src="media/controller.png" width="500"/>
+                <p>This Chip is the hard disk controller, this component is located on the hard disk itself, not on the motherboard. This cpomponent is responsible for passing information from the hard drive platter to the motherboard and then to the CPU.</p>
+                <h1 id="power_connector">Power Connectors</h1>
+                <img src="media/power.jpeg" width="500"/>
+                <p>This is an image of a motherboard power connector. This is used to transfer multiple types of DC voltages to motherboard for further power distribution to the CPU, and periphery. This image is of a 24 pin connector, which has 12v, 5v, and 3.3v rails as well as inverted versions of each.</p>
+                <h1 id="bios_chip">BIOS Chip</h1>
+                <img src="media/bios.jpeg" width="500"/>
+                <p>This is an image of a BIOS chip, this chip is nessesary to hold the bios information so that when the motherboard is dissconnected from power it can retain settings and the BIOS itself. In more modern computers the BIOS chip is not as noticable and cannot be removed, or replaced. However modern BIOS chips can be re-flashed to provide software updates to the BIOS.</p>
+                <h1 id="cmos_battery">CMOS Battery</h1>
+                <img src="media/cmosbatt.jpg" width="500"/>
+                <p>This is an image of a CMOS battery, it's purpose is to provide power to the volatile memory of the motherboard, so it can retain time and other information. The motherboard can function without this, however some information will be lost on power loss of the computer. </p>
+            </article>
+        </section>
+        
+        <footer>
+            Ryan Blue 2018
+        </footer>
+    </body>
+</html>
